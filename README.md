@@ -5,20 +5,38 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
 
-* System dependencies
+# Documentation
 
-* Configuration
+What's this for?
 
-* Database creation
+1. Quickly getting started
+2. Installation
+3. Configuration
 
-* Database initialization
+Todos to offload to a proper documentation tool
 
-* How to run the test suite
+- Pre-requisites and their versions
+    - ruby version
+    - rails version
+    - yarn version
+    - others
+- Configuration
+- Database creation
+- Database initialization
+- How to run the test suite
+- Services (job queues, cache servers, search engines, etc.)
+- Deployment instructions
 
-* Services (job queues, cache servers, search engines, etc.)
+# Contributing
 
-* Deployment instructions
+**Project Management:** [SMUMods Project Management Board](https://trello.com/b/g0w8PBqZ).
 
-* ...
+**Team Management:** [SMUMods Team Management Board](https://trello.com/b/TsvKjEVz)
+
+Todos:
+- Create and link up Issue tracker trello on README
+
+# License
+
+Todo. Researching viable licenses.
